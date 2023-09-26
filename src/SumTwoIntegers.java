@@ -26,3 +26,4 @@ public class SumTwoIntegers {
         scanner.close();
     }
 }
+

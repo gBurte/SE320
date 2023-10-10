@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="544180ee-3e80-4dda-8f14-bc45ec114ecb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SE320-hwk2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise19_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GenericStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberValidation.java" afterDir="false" />
-    </list>
+    <list default="true" id="544180ee-3e80-4dda-8f14-bc45ec114ecb" name="Changes" comment="HW2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,22 +70,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696895913289</updated>
-      <workItem from="1696895914456" duration="8502000" />
+      <workItem from="1696895914456" duration="8886000" />
     </task>
+    <task id="LOCAL-00001" summary="HW2">
+      <option name="closed" value="true" />
+      <created>1696909881324</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696909881325</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>3</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="HW2" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW2" />
   </component>
 </project>
